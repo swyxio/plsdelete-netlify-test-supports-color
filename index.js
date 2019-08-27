@@ -1,3 +1,4 @@
+process.env.FORCE_COLOR = true
 process.env.colors = true
 const chalk = require('chalk')
 
